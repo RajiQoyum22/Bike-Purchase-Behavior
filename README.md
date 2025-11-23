@@ -112,7 +112,8 @@ It was cleaned and modified to create an interactive Excel dashboard.
 
 
 #### 🚴‍♂️ Bike Purchase Behaviour Analysis Dashboard
-        
+
+        ![Image Alt](https://github.com/RajiQoyum22/Bike-Purchase-Behavior/blob/8ec66d20fc99567c3f199798c4150751c592432f/bike.PNG)
 
 #### 🧑‍💻 Author
 
