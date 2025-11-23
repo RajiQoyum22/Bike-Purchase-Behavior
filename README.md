@@ -111,9 +111,12 @@ This dataset was downloaded online from an open-source educational dataset repos
 It was cleaned and modified to create an interactive Excel dashboard.
 
 
+
 #### 🚴‍♂️ Bike Purchase Behaviour Analysis Dashboard
 
-        ![Image Alt](https://github.com/RajiQoyum22/Bike-Purchase-Behavior/blob/8ec66d20fc99567c3f199798c4150751c592432f/bike.PNG)
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/RajiQoyum22/Bike-Purchase-Behavior/main/bike.PNG)
+
 
 #### 🧑‍💻 Author
 
